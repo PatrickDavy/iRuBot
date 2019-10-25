@@ -1,6 +1,6 @@
 module.exports = (client, member) => {
     const message = client.channels.find(ch => ch.name === 'welcome');
-    const user = client.users.find(user => user.username === "iAmNukinFuts");
+    const user = client.users.find(user => user.username === "iAmPineapple");
     const socials = client.channels.find(ch => ch.name === 'socials');
     const streamAnnouncements = client.channels.find(ch => ch.name === 'stream-announcements');
     const setups = client.channels.find(ch => ch.name === 'setups');

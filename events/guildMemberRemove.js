@@ -1,5 +1,5 @@
 module.exports = (client, member) => {
-    const message = client.channels.find(ch => ch.name === 'logchannel');
+    const message = client.channels.find(ch => ch.name === 'admin-chat');
     const embeddedMessage =  {
         "embed": {
             "color": 0xFF0000,
