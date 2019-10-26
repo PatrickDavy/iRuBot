@@ -22,7 +22,7 @@ module.exports = (client, member) => {
                         "the week. Countless laughs and fun games to be played!" +
                         "\n\n" +
                         "Also dont forget to check out " + socials + " and " + streamAnnouncements + " if you want to " +
-                        "join iRu. Stream Team Flick " + user + " - Matt  a Message!.\n" +
+                        "join iRu. Stream Team Flick " + user + " a Message!.\n" +
                         "We are always looking for new content / GTX / Hardware / Software / and Games! so if you" +
                         " have something to share SHARE IT ! , in " + setups + " " + memes + " " + tipsAndTricks + " "
                         + clips + " \n" +
